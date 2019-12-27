@@ -1,5 +1,5 @@
 """
-print("Hello World")
+prit("Hello World")
 print('Hello World')
 print("Ankara'da hava nasıl?")
 print("Ankara'da hava nasıl?", "Soğuk")
@@ -10,7 +10,7 @@ print("Naber ","Nasılsın? ","İyimisin",sep="la")
 print("Pardus ve Ubuntu birer GNU/Linux dağıtımıdır.")
 print("birinci","ikinci","üçüncü","dördüncü",sep="\n")
 print("Naber ","Nasılsın? ","İyimisin",sep="la",end=".")
-"""
+
 
 
 
@@ -33,7 +33,7 @@ print("toplam",toplam)
 print(a+b+c*32)
 print(a*32)
 print(d*2)
-
+""""
 # "ahmet" = b
 #
 # print(a,b,c)
