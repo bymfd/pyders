@@ -1,3 +1,3 @@
 # pyders
 python dersinde yazılan hemen hemen herşey 
-açıklma satırı eklenmeyecektir
+açıklma satırı eklenmeyecektir...
